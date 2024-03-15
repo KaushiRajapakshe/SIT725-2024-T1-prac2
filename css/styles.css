@@ -1,0 +1,26 @@
+/* General
+================================================
+*/
+
+body {
+    font-family: apple-system;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.footer {
+    margin-top: 40vh;
+    padding-bottom: 15vh;
+    text-align: center;
+}
+
+.text {
+    display: inline-block;
+    color: black;
+}
+
+.submit {
+    color: white;
+    font-family: apple-system;
+    font-size: 15px;
+}
